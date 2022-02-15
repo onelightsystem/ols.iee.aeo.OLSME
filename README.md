@@ -1,8 +1,8 @@
-onelightsystem OLS } read - select - apply
-OLS iee.aeo 
-// updates 580. 
-// admits| data.blocks15829OLSLM asset-chain verified open-public register
-//
+"onelightsystem OLS" 
+//this file is public overview about it.//
+''OLS iee.aeo management" 
+// updates 1757.580.//
+// admits| data.blocks21257LSLM asset-chain verified open-public register//
 
 OLS student [https://olsme.com/olssregister
 olsme subscriber [https://olsme.com/olsmeregister ]
